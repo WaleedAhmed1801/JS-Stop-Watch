@@ -1,0 +1,84 @@
+h1{
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.timer{
+    padding-top: 10px;
+    width: 45%;
+    height: 50vh;
+    border: 2px solid black;
+    border-radius: 25px;
+    text-align: center;
+    background-color: #1D141A;
+} 
+
+.timer h1{
+    display: inline-block;
+    width: 80px;
+    color: white;
+    width: 150px;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+
+}
+
+.para{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.3rem;
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+    padding-bottom: 30px;
+}
+
+.btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.btn1{
+    background-color: #1D141A;
+    color: rgb(218, 169, 169);
+    font-style: italic;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    width: 90px;
+    height: 45px;
+    font-size: 1.3rem;
+    border: none;
+}
+
+.btn2{
+    background-color: #1D141A;
+    color: rgb(218, 169, 169);
+    font-style: italic;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    width: 90px;
+    height: 45px;
+    font-size: 1.3rem;
+    border: none;
+}
+
+.btn3{
+    background-color: #1D141A;
+    color: rgb(218, 169, 169);
+    font-style: italic;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    width: 90px;
+    height: 45px;
+    font-size: 1.3rem;
+    border: none;
+}
